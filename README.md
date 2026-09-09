@@ -70,9 +70,9 @@ Gelişmiş mekanik tasarım, sonlu elemanlar analizi (FEM) ve veri odaklı mühe
 
 ### 📊 GitHub İstatistiklerim
 
+### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuricekerr&show_icons=true&theme=tokyonight&count_private=true" alt="Nuri's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuricekerr&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuricekerr&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
