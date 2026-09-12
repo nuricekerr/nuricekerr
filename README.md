@@ -61,8 +61,3 @@ Geleneksel makine mühendisliği disiplinlerini (FEA/CAE, CAD, Titreşim Analizi
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nuricekerr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150"/>
 </div>
 
-### 📊 GitHub Aktivite Grafiği
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nuricekerr&theme=tokyo-night&hide_border=true" width="100%" alt="Aktivite Grafiği" />
-</div>
