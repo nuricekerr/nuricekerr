@@ -1,83 +1,66 @@
-# Selam, Ben Nuri Çeker! 👋
+<div align="center">
 
-### 🚀 Makine Mühendisi & Yapay Zeka / Veri Bilimi Meraklısı
-Gelişmiş mekanik tasarım, sonlu elemanlar analizi (FEM) ve veri odaklı mühendislik çözümlerinin kesişim noktasına odaklanan bir Makine Mühendisliği öğrencisiyim. Geleneksel mühendislik ilkelerini yapay zeka, veri analitiği ve otomasyonla birleştirerek akıllı sistemler geliştirmeyi hedefliyorum.
+# Selam, Ben Nuri Çeker 👋
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuriceker)
+[![Email](https://img.shields.io/badge/E--Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ornek-mail@domain.com)
 
-### 🔬 Lisans Bitirme Tezi & Çalışma Alanları
-* **Proje Konusu:** İçten yanmalı motorlarda (ICE) meydana gelen mekanik titreşimleri sönümleyen yenilikçi bir mekanik sistemin kavramsal tasarımı ve modellenmesi.
-* **Enerji Hasadı:** Akıllı malzemeler (PVDF/PZT) entegrasyonu ile piezoelektrik enerji hasadı (energy harvesting) mekanizmasının prototip düzeyinde kurgulanması.
-* **Simülasyon & Doğrulama:** Sistemin statik ve dinamik analizlerinin **Ansys** ve **COMSOL Multiphysics** sonlu elemanlar yöntemi (FEM) simülasyon altyapısında doğrulanması.
+**Makine Mühendisi | Yapay Zeka & Veri Odaklı Mühendislik Çözümleri**
 
----
+Geleneksel makine mühendisliği disiplinlerini (FEA/CAE, CAD, Titreşim Analizi) yapay zeka, görüntü işleme ve veri analitiği ile birleştirerek akıllı ve optimize sistemler geliştiriyorum.
 
-### 🛠️ Teknik Yetkinlikler & Araçlar
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/CAD%20%2F%20Tasarım-SolidWorks%20%7C%20CATIA-blue?style=for-the-badge&logo=solidworks" alt="CAD"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/CAE%20%2F%20FEM-ANSYS%20%7C%20COMSOL-orange?style=for-the-badge" alt="CAE"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Programlama-Python%20%7C%20C%23%20%7C%20C%2B%2B-green?style=for-the-badge&logo=python" alt="Programming"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Yapay%20Zeka-ML%20%7C%20DL%20%7C%20NLP-purple?style=for-the-badge" alt="AI"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>SolidWorks (3D Parça, Montaj & Statik Analiz)</li>
-        <li>Catia (Temel Arayüz Bilgisi)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Ansys (Statik Yapısal, Modal, Harmonik Yanıt)</li>
-        <li>COMSOL Multiphysics (Piezoelektrik Modelleme)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Python (Mühendislik Veri Analitiği)</li>
-        <li>C# (Algoritma Tasarımı & Arayüz)</li>
-        <li>C++ (Temel Seviye Gömülü Sistem)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Makine Öğrenmesi (ML)</li>
-        <li>Derin Öğrenme (DL)</li>
-        <li>Doğal Dil İşleme (NLP)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-### 🎓 Sertifikalar & Sektörel Deneyim
-* **Turkcell Yapay Zeka ve Veri Bilimi Akademisi:** Uygulama tabanlı Makine Öğrenimi, Derin Öğrenme, Doğal Dil İşleme (NLP) veri modellemeleri ve C# ile Nesne Yönelimli Programlama (OOP) eğitimi.
-* **Teknik İncelemeler & Vizyon:** Havacılık standartlarında yüksek hassasiyetli imalat süreçleri analizi (Alp Havacılık Teknik Gezisi) ve yeni nesil otomotiv teknolojileri ile yapay zeka entegrasyonlu üretim hatları incelemeleri (Eskişehir Osmangazi Üniversitesi 'Otomotivin Geleceği' Zirvesi).
-* **Teknik Dokümantasyon:** İleri düzey akademik ve teknik raporlama süreçlerinde **LaTeX** kullanımı.
+### 📌 Öne Çıkan Çalışmalar & Projeler
+
+* **Piezoelektrik Titreşim Sönümleme & Enerji Hasadı (Bitirme Tezi)**
+  * İçten yanmalı motorlardaki (ICE) mekanik titreşimleri sönümleyen ve PVDF/PZT akıllı malzeme matrisleri ile kinetik enerjiyi elektrik enerjisine dönüştüren yenilikçi sistem mimarisi.
+  * Tasarım ve çoklu fizik doğrulamaları **SolidWorks**, **Ansys** (Statik & Harmonik Yanıt) ve **COMSOL Multiphysics** üzerinde gerçekleştirilmiştir.
+
+* **Endüstriyel Yapay Zeka ile Kalite Kontrol & Kusur Tespiti**
+  * Üretim hatlarında gerçek zamanlı yüzey kusuru analizi için **YOLOv8**, **C#** ve **ML.NET** entegrasyonuyla geliştirilmiş görüntü işleme sistemi.
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 🛠️ Yetkinlikler & Teknolojiler
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuricekerr&theme=radical" alt="GitHub Streak Stats" />
+**Mühendislik Tasarım, Simülasyon & Üretim**
+<p align="left">
+  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CATIA-005696?style=flat-square&logo=dassaultsystemes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=ansys&logoColor=black" />
+  <img src="https://img.shields.io/badge/COMSOL_Multiphysics-2E6B9E?style=flat-square&logo=comsol&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-E51A24?style=flat-square&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/CAM-Mastercam%20%7C%20Edgecam-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/İmalat-Hızlı%20Prototipleme%20(3D%20Baskı)-orange?style=flat-square" />
+</p>
+
+**Yazılım, Veri Bilimi & Yapay Zeka**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,matlab,git,github" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Yapay_Zeka-Makine_Öğrenmesi%20%7C%20Derin_Öğrenme-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Görüntü_İşleme-YOLOv8%20%7C%20ML.NET-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Doğal_Dil_İşleme-NLP-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dokümantasyon-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Benimle İletişime Geçin
-* 📧 **E-posta:** nuriceker09@gmail.com
-* 📍 **Konum:** Kütahya, Türkiye
-* 💼 **LinkedIn:** [LinkedIn Profiliniz](https://linkedin.com)
+### 📜 Sertifikasyonlar & Saha Deneyimi
+
+* **Turkcell Geleceği Yazanlar:** Uygulamalı Makine Öğrenimi, Derin Öğrenme, Doğal Dil İşleme (NLP) ve C# ile Nesne Yönelimli Programlama (OOP).
+* **Endüstriyel Üretim & Bakım:** CNC işleme, sac metal şekillendirme, kaynak teknikleri ve santral/fabrika bakım operasyonları saha tecrübesi.
+* **Teknik Vizyon & İncelemeler:** Havacılık toleranslarında talaşlı imalat (Alp Havacılık) ve otomotivde yapay zeka destekli montaj hatları teknik analizleri.
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nuricekerr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuricekerr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150"/>
+</div>
