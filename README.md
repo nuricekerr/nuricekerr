@@ -3,7 +3,7 @@
 # Selam, Ben Nuri Çeker 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuriceker)
-[![Email](https://img.shields.io/badge/E--Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ornek-mail@domain.com)
+[![Email](https://img.shields.io/badge/E--Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuriceker09@gmail.com)
 
 **Makine Mühendisi | Yapay Zeka & Veri Odaklı Mühendislik Çözümleri**
 
@@ -57,6 +57,12 @@ Geleneksel makine mühendisliği disiplinlerini (FEA/CAE, CAD, Titreşim Analizi
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuricekerr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuricekerr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=nuricekerr&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nuricekerr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150"/>
+</div>
+
+### 📊 GitHub Aktivite Grafiği
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nuricekerr&theme=tokyo-night&hide_border=true" width="100%" alt="Aktivite Grafiği" />
 </div>
